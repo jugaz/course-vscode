@@ -1,0 +1,15 @@
+{
+  "name": "VsCode-curso",
+  "version": "1.0.0",
+  "description": "Curso Vscode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugaz/VsCode-curso.git"
+  },
+  "author": "Jesus Ugaz Vegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugaz/VsCode-curso/issues"
+  },
+  "homepage": "https://github.com/jugaz/VsCode-curso#readme"
+}
